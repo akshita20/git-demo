@@ -1,3 +1,5 @@
 # git-demo
 
-#editinh the readme using UI
+
+#editigs the readme using UI
+
