@@ -1,7 +1,7 @@
 # git-demo
 
-
-#editigs the readme using UI
+#Master copy
+#editing the readme using UI
 
 
 
